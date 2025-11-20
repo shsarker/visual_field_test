@@ -1,4 +1,4 @@
- VR-Based Peripheral Vision Test
+# VR-Based Peripheral Vision Test
 ### A Virtual Reality Approach to Biomarkers for Alzheimer’s Disease
 
 This project implements a peripheral vision testing framework designed to support early biomarker research for Alzheimer’s disease.  
