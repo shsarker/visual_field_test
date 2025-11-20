@@ -27,35 +27,6 @@ Phase 2 will transition the system to VR headsets for immersive and standardized
 
 ---
 
-## Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/shsarker/visual_field_test.git
-cd visual_field_test
-```
-
-### Install Requirements
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-
-### Run the Desktop Application
-```bash
-python src/circle_gaze_app_descending.py
-```
-
-### Run the Streamlit Application
-```bash
-streamlit run src/circle_gaze_descending_streamlit.py
-```
-
----
-
 ## Technology Stack
 - Python  
 - Streamlit  
@@ -88,4 +59,8 @@ The long-term goal is to evaluate whether visual-field processing deficits can a
 ### Phase 2 — Planned
 - VR headset adaptation  
 - Database integration for participant session storage  
-- Human testing and statistical modeling 
+- Human testing and statistical modeling
+
+  ## Notice
+This project is under active development and is not currently licensed for reuse, reproduction, or distribution.  
+The source code is provided for academic review only.
