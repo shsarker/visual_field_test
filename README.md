@@ -58,9 +58,9 @@ The long-term goal is to evaluate whether visual-field processing deficits can a
 
 ### Phase 2 — Planned
 - VR headset adaptation  
-- Database integration for participant session storage  
-- Human testing and statistical modeling
+- Pilot testing with human subjects  
+- Statistical modeling
 
-  ## Notice
+## Notice
 This project is under active development and is not currently licensed for reuse, reproduction, or distribution.  
 The source code is provided for academic review only.
