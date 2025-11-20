@@ -1,4 +1,4 @@
-# VR-Based Peripheral Vision Test
+ VR-Based Peripheral Vision Test
 ### A Virtual Reality Approach to Biomarkers for Alzheimer’s Disease
 
 This project implements a peripheral vision testing framework designed to support early biomarker research for Alzheimer’s disease.  
@@ -33,3 +33,59 @@ Phase 2 will transition the system to VR headsets for immersive and standardized
 ```bash
 git clone https://github.com/shsarker/visual_field_test.git
 cd visual_field_test
+```
+
+### Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Usage
+
+### Run the Desktop Application
+```bash
+python src/circle_gaze_app_descending.py
+```
+
+### Run the Streamlit Application
+```bash
+streamlit run src/circle_gaze_descending_streamlit.py
+```
+
+---
+
+## Technology Stack
+- Python  
+- Streamlit  
+- NumPy  
+- Matplotlib  
+- Pillow  
+- Screeninfo  
+
+---
+
+## Research Context
+This project is part of a broader research effort supervised by:
+
+**Dr. Chiquito Crasto**  
+Research Associate Professor  
+Center for Biotechnology and Genomics  
+Texas Tech University  
+
+The long-term goal is to evaluate whether visual-field processing deficits can act as early, non-invasive indicators of Alzheimer’s disease using VR technology to ensure reproducible testing.
+
+---
+
+## Project Status
+
+### Phase 1 — Completed
+- Full-screen peripheral vision test  
+- Automated data logging  
+- Streamlit-based version  
+
+### Phase 2 — Planned
+- VR headset adaptation  
+- Database integration for participant session storage  
+- Human testing and statistical modeling 
