@@ -45,7 +45,7 @@ Research Associate Professor
 Center for Biotechnology and Genomics  
 Texas Tech University  
 
-The long-term goal is to evaluate whether visual-field processing deficits can act as early, non-invasive indicators of Alzheimer’s disease using VR technology to ensure reproducible testing.
+The long-term goal is to evaluate whether visual-field processing deficits can act as early, non-invasive indicators of Alzheimer’s disease using VR technology.
 
 ---
 
